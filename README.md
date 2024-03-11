@@ -2,6 +2,8 @@
 
 This project is a digital business card created using React. It aims to provide a modern and interactive way for users to share their contact information and professional details digitally. With React, the project offers flexibility, scalability, and a responsive design suitable for various devices.
 
+![image](https://github.com/SaiAnilTekuri/Digital_Business_Card-React/assets/145858403/20a51063-6ee2-4537-ba00-0fd35bb9ed23)
+
 
 ## Features
 
